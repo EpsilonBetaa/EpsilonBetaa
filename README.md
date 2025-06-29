@@ -16,11 +16,9 @@
 
 ## 🤖 Technology & Automation Portfolio
 
-Our chapter leverages advanced automation systems to streamline member management and enhance organizational efficiency. We've developed sophisticated Discord-based verification systems that demonstrate our commitment to both technological innovation and security best practices.
+Our chapter leverages advanced automation systems to streamline member management and enhance organizational efficiency. We've developed sophisticated Discord-based systems that demonstrate our commitment to both technological innovation and security best practices.
 
 ### 🛡️ Automated Verification Systems
-
-**Our deployment includes three specialized verification bots:**
 
 #### **ElectroVerify** - Inducted Member Verification
 - **Purpose:** Automated verification for inducted IEEE-HKN members
@@ -33,6 +31,8 @@ Our chapter leverages advanced automation systems to streamline member managemen
 - **Features:** Initiate status verification, welcome automation, role management
 - **Capabilities:** Enhanced error handling, comprehensive logging
 - **Experience:** Professional Discord embeds, guided verification process
+
+### 📄 Document Management Systems
 
 #### **Revault** - Resume Management System
 - **Purpose:** Secure PDF resume collection and organization
