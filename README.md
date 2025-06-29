@@ -99,7 +99,7 @@ Our chapter leverages advanced automation systems to streamline member managemen
 *All automation systems and technical infrastructure are maintained by the Webmaster to ensure consistency, security, and optimal performance across all chapter digital operations.*
 
 ### **Official Channels**
-- **IEEE-HKN International:** [hkn.ieee.org](https://hkn.ieee.org)
+- **IEEE-HKN:** [hkn.ieee.org](https://hkn.ieee.org)
 - **ASU Ira A. Fulton Schools:** [engineering.asu.edu](https://engineering.asu.edu)
 
 ## 🏆 Innovation & Excellence
