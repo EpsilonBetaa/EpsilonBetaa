@@ -34,11 +34,12 @@ Our chapter leverages advanced automation systems to streamline member managemen
 
 ### 📄 Document Management Systems
 
-#### **Revault** - Resume Management System
-- **Purpose:** Secure PDF resume collection and organization
-- **Features:** Google Drive integration, real-time notifications
-- **Automation:** File validation, automatic folder organization
-- **Utility:** Career services support, member portfolio management
+#### **Revault** - Advanced Resume Management System
+- **Purpose:** Enterprise-grade PDF resume collection and secure organization for chapter career services
+- **Features:** Privacy-first DM interactions, [epsilonbetaverify@gmail.com](mailto:epsilonbetaverify@gmail.com) notifications, Google Drive integration
+- **Automation:** Real-time file validation, automatic naming conventions, database synchronization
+- **Security:** Session management, role-based access control, comprehensive audit logging
+- **Utility:** Professional member portfolio management with email confirmations and admin oversight
 
 ### 🔒 Repository Privacy & Security
 
@@ -116,7 +117,7 @@ The IEEE-HKN Epsilon Beta Chapter at Arizona State University stands at the inte
 ## 📈 Future Initiatives
 
 ### **Revault Enhancement - Coming July 2025**
-Our resume collector bot (Revault) is scheduled for a major upgrade next month, featuring enhanced functionality and a significantly improved user experience. This upgrade will elevate the system to a super cool level with advanced features for seamless resume management and career services integration.
+Our advanced resume management system (Revault) is scheduled for a major upgrade next month, featuring enhanced functionality and a significantly improved user experience. This upgrade will elevate the system to a super cool level with advanced features for seamless resume management and career services integration.
 
 ---
 
