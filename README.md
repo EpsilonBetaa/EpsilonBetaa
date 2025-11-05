@@ -51,14 +51,14 @@ Our chapter leverages advanced automation systems to streamline member managemen
 
 ### 📅 Event Reminder System
 
-#### **IEEE-HKN Event Reminder System** – Calendar Notification Bot
+#### **IEEE-HKN Event Reminder System** – Eve _Integration_ Bot
 - **Purpose:** Automated Discord reminders for Google Calendar events
 - **Features:** Smart scheduling, meeting link detection, duplicate prevention, error self-recovery
 - **Tech:** Google Apps Script, Calendar API, Discord Webhooks
 
 ### 💬 Suggestion & Feedback System
 
-#### **IEEE-HKN Chapter Suggestion System** – Feedback Routing Bot
+#### **IEEE-HKN Chapter Suggestion System** – Suggesty _Integration_ Bot
 - **Purpose:** Process and route Google Form feedback to Discord/Slack
 - **Features:** Tracking IDs, privacy controls, priority colors, email confirmations
 - **Tech:** Google Apps Script, Discord & Slack Webhooks
