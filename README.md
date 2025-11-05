@@ -41,6 +41,29 @@ Our chapter leverages advanced automation systems to streamline member managemen
 - **Security:** Session management, role-based access control, comprehensive audit logging
 - **Utility:** Professional member portfolio management with email confirmations and admin oversight
 
+### 📊 Distinguished Membership Tracking Systems
+
+#### **Distinguished Membership Tracker (D.M.T.)** – Membership Progress Tool
+- **Purpose**: Streamline tracking and qualification for IEEE-HKN Distinguished Membership
+- **Features**: Live progress dashboard, instant eligibility status, secure CSV data import/export
+- **Capabilities**: Bulk file handling, real-time analytics, smart duplicate resolution, automatic qualification by event criteria
+- **Experience**: Responsive grid UI, detailed member cards, professional formatting, export lock for incomplete records
+
+### 📅 Event Reminder System
+
+#### **IEEE-HKN Event Reminder System** – Calendar Notification Bot
+- **Purpose:** Automated Discord reminders for Google Calendar events
+- **Features:** Smart scheduling, meeting link detection, duplicate prevention, error self-recovery
+- **Tech:** Google Apps Script, Calendar API, Discord Webhooks
+
+### 💬 Suggestion & Feedback System
+
+#### **IEEE-HKN Chapter Suggestion System** – Feedback Routing Bot
+- **Purpose:** Process and route Google Form feedback to Discord/Slack
+- **Features:** Tracking IDs, privacy controls, priority colors, email confirmations
+- **Tech:** Google Apps Script, Discord & Slack Webhooks
+
+
 ### 🔒 Repository Privacy & Security
 
 **All operational repositories are maintained as private** due to containing sensitive deployment credentials and configuration data essential for Railway cloud deployment infrastructure. This approach ensures:
