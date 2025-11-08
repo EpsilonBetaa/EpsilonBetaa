@@ -1,7 +1,7 @@
 # IEEE-HKN Epsilon Beta Chapter
 *Arizona State University • Ira A. Fulton Schools of Engineering*
 
-> **Honor • Knowledge • Network**  
+> **Scholarship • Character • Attitude**  
 > *Advancing excellence in electrical and computer engineering through technology, leadership, and innovation*
 
 ## 🏛️ About Our Chapter
